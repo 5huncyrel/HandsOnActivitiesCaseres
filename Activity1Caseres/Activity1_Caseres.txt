@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     
+        <style>
+            body{
+                background-image: url(cover.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+            }
+            h1{
+                text-align: center;
+                font-family: "Arial";
+                
+            }
+            p1{
+                font-family: "Calibri";
+                font-size: 30pt;
+            }
+            p2{
+                font-family: "Calibri";
+                font-size: 30pt;
+            }
+           
+        </style>
+    </head>
+
+    <body>
+
+        <center><p1><font color = "FFFF00"><br>
+            Welcome To My Static Web Portfolio 
+        </p1></font></center>
+
+        <h1><b><font color = "FFFFFF"><br><br>
+            Shun Cyrel S. Caseres
+        </h1></b></font><br>
+
+        <center> <img src = "my_img.jpg" style = "width: 40%" > </center>
+        
+
+        <center>
+        <p2><i><font color = "FFFF00"><br><br>
+            
+            Hi! I'm Shun Cyrel S. Caseres, 
+            but you can call me "Cy" or "Shun" for short. <br>
+            I'm 20 years of age, born on December 15, 2003;<br>
+            lived in Paglaum Camaman-an Cagayan de Oro City. <br>
+            I love to play guitar and ukulele while singing; <br>
+            I also know how to play bass, keyboard, and drums but not that good though. <br>
+            Even though I love playing instruments I still chose to pursue BSIT <br>
+            because it's in demand nowadays and due to curiousity I want to explore this field more. 
+
+        </center></p2></i></font>
+        <br><br>
+
+    </body>
+</html>
